@@ -1,0 +1,137 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hr517NJ/OCHANNEL.png" group-title="HD TV",O CHANNEL
+udp://@224.1.1.6:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="HD TV",INDOSIAR
+udp://@224.1.1.2:1234
+
+#EXTINF: -1 tvg-id=".SHINTA" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="HD TV", SCTV
+udp://@224.1.1.5:1234
+
+#EXTINF: -1 tvg-id=".SHINTA" tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="HD TV", METRO TV
+udp://@224.1.1.11:1234
+
+
+#EXTINF: -1 tvg-id=".SHINTA" tvg-logo="https://thumbor.prod.vid.id/My9mYFmho6-FO2QdNmslYUbEH7k=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="HD TV", RTV
+udp://@224.1.1.14:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="HD TV",TRANS TV
+udp://@224.1.1.21:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="HD TV",TRANS 7
+udp://@224.1.1.22:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png" group-title="HD TV",Kompas TV
+udp://@224.1.1.28:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="HD TV",RCTI
+udp://@224.1.1.31:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="HD TV",MNCTV
+udp://@224.1.1.35:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="HD TV",GTV
+udp://@224.1.1.33:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="HD TV",iNewsTV
+udp://@224.1.1.34:1234
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png" group-title="HD TV",TVONE
+udp://@239.2.2.2:3004
+
+#EXTINF: -1 tvg-id=".SHINTA" tvg-logo="https://thumbor.prod.vid.id/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" group-title="HD TV", NET TV
+udp://@239.2.2.29:3000
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="HD TV",ANTV
+udp://@239.2.2.5:3000
+
+#EXTINF: -1 tvg-id=".SHINTA" tvg-logo="https://thumbor.prod.vid.id/lXR0RNo_sOsVOxIs_3bKHkY9KyY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="HD TV", Mentari TV
+udp://@224.1.1.7:1234
+
+#EXTINF: -1 tvg-id=".SHINTA" tvg-logo="https://thumbor.prod.vid.id/z2gl2uUHI4OzdAWuUYEruLNzux4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="HD TV", Magna TV
+udp://@224.1.1.12:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvri.png" group-title="HD TV",TVRI
+udp://@239.2.2.13:3000
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",TVRI Jatim
+udp://@239.2.2.4:3008
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",TVRI 3
+udp://@239.2.2.14:3000
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",TVRI 4
+udp://@239.2.2.15:3000
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",RRI
+udp://@239.2.2.17:3026
+
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",BN TV
+udp://@224.1.1.13:1234
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",CNN
+udp://@224.1.1.27:1234
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",CNBC
+udp://@224.1.1.26:1234
+
+
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Sea
+udp://@239.2.2.3:3002
+
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Jogja TV
+udp://@239.2.2.6:3010
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Chanel Musik
+udp://@239.2.2.7:3006
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Niaga TV
+udp://@239.2.2.8:3012
+
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Asia TV
+udp://@239.2.2.9:3014
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",DM TV
+udp://@239.2.2.10:3016
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Sinema Indonesia
+udp://@239.2.2.21:3020
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",K Drama
+udp://@239.2.2.12:3022
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Sinema X
+udp://@239.2.2.16:3024
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",KTV
+udp://@239.2.2.18:3028
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Nusantara TV
+udp://@239.2.2.19:3030
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",JAK TV
+udp://@239.2.2.20:3032
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",MY TV
+udp://@239.2.2.22:3034
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Elsinta
+udp://@239.2.2.24:3038
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",RTTL
+udp://@239.2.2.37:3064
+
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Salam TV
+udp://@239.2.2.11:3018
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Fatwa TV
+udp://@239.2.2.23:3036
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Insan TV
+udp://@239.2.2.25:3040
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",AshiilTV
+udp://@239.2.2.26:3042
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",SurauTV
+udp://@239.2.2.27:3044
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Ahsan TV
+udp://@239.2.2.28:3046
+#EXTINF:-1 tvg-logo=" " group-title="HD TV", Muadz TV
+udp://@239.2.2.29:3048
+#EXTINF:-1 tvg-logo=" " group-title="HD TV", Rasyaad TV
+udp://@239.2.2.30:3050
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Izzah TV
+udp://@239.2.2.31:3052
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Hijrah TV
+udp://@239.2.2.32:3054
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",Al-Iman TV
+udp://@239.2.2.33:3056
+#EXTINF:-1 tvg-logo=" " group-title="HD TV", RadioKita TV
+udp://@239.2.2.34:3058
+#EXTINF:-1 tvg-logo=" " group-title="HD TV", Madinah TV
+udp://@239.2.2.35:3060
+#EXTINF:-1 tvg-logo=" " group-title="HD TV", Makkah TV
+udp://@239.2.2.36:3062
+
