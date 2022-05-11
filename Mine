@@ -690,6 +690,29 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORT & LIVE" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF: -1 tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", ASTRO ARENA B
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014744
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", ASTRO ARENA 2
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014745
+#EXTINF: -1 tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", astro Supersports 1
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014746
+#EXTINF: -1 tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", astro Supersports 1 BACK2
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014748
+#EXTINF: -1 tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", astro Supersports 2
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014749
+#EXTINF: -1 tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", astro Supersports 2 BACK2
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014751
+#EXTINF: -1 tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", astro Supersports 3
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014752
+#EXTINF: -1 tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", astro Supersports 3 BACK2
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014754
+#EXTINF: -1 tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", astro Supersports 4
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014755
+#EXTINF: -1 tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", astro Supersports 4 BACK2
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014757
+#EXTINF: -1 tvg-id="815" tvg-name="[MY] ASTRO ASSP5 HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT & LIVE", astro Supersports 5
+https://m3u-editor.com/serve/28d121b0-ce9c-11ec-8efc-85921679bff5/560014758
+
 #EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="SPORT & LIVE",ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8   
 
