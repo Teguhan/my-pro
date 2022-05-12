@@ -1207,6 +1207,135 @@ http://203.159.95.172:8081/live/bein01/chunks.m3u8
 http://203.159.95.172:8081/live/bein02/chunks.m3u8
 
 
++++++++++DELETABLE+++++++++
+
+#EXTM3U
 
 
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI FHD" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="LOCAL",RCTI FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/11
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV FHD" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="LOCAL",MNC TV FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/12
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="Global TV FHD" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="LOCAL",Global TV FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/13
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="i News HD" tvg-logo="https://i.ibb.co/zxtL3Xv/inews-warkopteve.png" group-title="LOCAL",i News HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/14
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="Indosiar HD" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="LOCAL",Indosiar HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/15
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="LOCAL",SCTV HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/16
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="Trans 7 HD" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="LOCAL",Trans 7 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/17
+#EXTINF:-1 tvg-id="" tvg-name="& Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="LOCAL",& Flix HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/27
+#EXTINF:-1 tvg-id="" tvg-name="& Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="LOCAL",& Prive HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/28
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="LOCAL",Star Movies
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/29
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="Sony Pix" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="LOCAL",Sony Pix
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/30
+
+#EXTINF:-1 tvg-id="" tvg-name="StarMovies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="LOCAL",StarMovies Select
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/612
+
+#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="Music",Citra Dangdut
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/211
+#EXTINF:-1 tvg-id="" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="LOCAL",ShowCase Movies
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/240
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="LOCAL",Animal Planet
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/261
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="http://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="LOCAL",Citra Drama
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/362
+#EXTINF:-1 tvg-id="" tvg-name="Citra Bioskop" tvg-logo="https://warkopteve.xyz/logo/citrabioskop.png" group-title="LOCAL",Citra Bioskop
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/363
+#EXTINF:-1 tvg-id="" tvg-name="Citra Entertaiment" tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="LOCAL",Citra Entertaiment
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/377
+
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="LOCAL",HBO FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/31
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family FHD" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="LOCAL",HBO Family FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/32
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature FHD" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="LOCAL",HBO Signature FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/41
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits FHD" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="LOCAL",HBO Hits FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/42
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.postimg.cc/DwGKL9TK/TLC.png" group-title="LOCAL",TLC
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/131
+#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="LOCAL",AFN
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/320
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax FHD" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="LOCAL",Cinemax FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/33
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM" tvg-logo="https://i.ibb.co/6HF0DHS/svc.png" group-title="LOCAL",Sony GEM
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/168
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/Db5RLLg/hjtr.png" group-title="LOCAL",Sony One
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/80
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Rock Entertaiment" tvg-logo="https://i.ibb.co/s2xvMWW/wrfd.png" group-title="LOCAL",Rock Entertaiment
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/53
+
+SUPER SPORT
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SuperSports HD",Astro Arena
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/43
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SuperSports HD",Astro Arena 2
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/194
+
+#EXTINF:-1 tvg-id="Live1.id" tvg-name="Astro Supersport 1 FHD" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SuperSports HD",Astro Supersport 1 FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/1
+#EXTINF:-1 tvg-id="Live2.id" tvg-name="Astro Supersport 2 FHD" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="SuperSports HD",Astro Supersport 2 FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/2
+#EXTINF:-1 tvg-id="Live3.id" tvg-name="Astro Supersport 3 FHD" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="SuperSports HD",Astro Supersport 3 FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/3
+#EXTINF:-1 tvg-id="Live4.id" tvg-name="Astro Supersport 4 FHD" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="SuperSports HD",Astro Supersport 4 FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/4
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Supersport 5 FHD" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SuperSports HD",Astro Supersport 5 FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/5
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport HD" tvg-logo="https://i.ibb.co/wrGxc4V/euu.png" group-title="SuperSports HD",Eurosport HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/202
+
+#EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV FHD" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SuperSports HD",SPOTV FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/59
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 1 HD" tvg-logo="https://i.ibb.co/02RRn5F/tyrty.png" group-title="SuperSports HD",Champions TV 1 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/115
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 2 HD" tvg-logo="https://i.ibb.co/25f0KrC/HFRR.png" group-title="SuperSports HD",Champions TV 2 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/116
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SuperSports HD",Champions TV3 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/114
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six FHD" tvg-logo="https://i.ibb.co/T0NmxvH/six.png" group-title="SuperSports HD",Sony Six FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/391
+#EXTINF:-1 tvg-id="" tvg-name="Sony TEN 1 FHD" tvg-logo="https://i.ibb.co/s9DP18Z/Ten-HD.png" group-title="SuperSports HD",Sony TEN 1 FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/118
+#EXTINF:-1 tvg-id="" tvg-name="Sony TEN 2 FHD" tvg-logo="https://i.ibb.co/XbRfz8h/Ten2-HD.png" group-title="SuperSports HD",Sony TEN 2 FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/119
+#EXTINF:-1 tvg-id="" tvg-name="Sony TEN 3 FHD" tvg-logo="https://i.ibb.co/D5nRgcD/Ten3-HD.png" group-title="SuperSports HD",Sony TEN 3 FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/120
+
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 1 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SuperSports HD",Beinsport 1 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/307
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 2 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SuperSports HD",Beinsport 2 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/308
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 3 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SuperSports HD",Beinsport 3 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/309
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 4 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SuperSports HD",Beinsport 4 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/310
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 5 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SuperSports HD",Beinsport 5 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/311
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 6 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SuperSports HD",Beinsport 6 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/312
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 7 HD" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SuperSports HD",Beinsport 7 HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/313
+#EXTINF:-1 tvg-id="" tvg-name="BeiNsport Max HD" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="SuperSports HD",BeiNsport Max HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/195
+
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sport 1  (id)" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SuperSports HD",Bein Sport 1  (id)
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/55
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="SuperSports HD",WWE Network
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/248
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six FHD" tvg-logo="https://i.ibb.co/T0NmxvH/six.png" group-title="SuperSports HD",Sony Six FHD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/391
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA TV HD" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SuperSports HD",NBA TV HD
+http://103.178.174.200:443/warkoptv/jTaEamL9bA/133
 
