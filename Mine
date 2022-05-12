@@ -1238,7 +1238,7 @@ http://103.178.174.200:443/warkoptv/jTaEamL9bA/30
 #EXTINF:-1 tvg-id="" tvg-name="StarMovies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="LOCAL",StarMovies Select
 http://103.178.174.200:443/warkoptv/jTaEamL9bA/612
 
-#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="Music",Citra Dangdut
+#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="LOCAL",Citra Dangdut
 http://103.178.174.200:443/warkoptv/jTaEamL9bA/211
 #EXTINF:-1 tvg-id="" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="LOCAL",ShowCase Movies
 http://103.178.174.200:443/warkoptv/jTaEamL9bA/240
