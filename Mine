@@ -1018,7 +1018,7 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 http://93.152.174.144:4000/play/btsport1/index.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORT HD",BT SPORT 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORT HD,BT SPORT 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORT HD",BT SPORT 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8?shareext.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1070,7 +1070,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-id="ext" group-title="SPORT HD",Fox Sport 3 FHD
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT & LIVE",FOX SPORT
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT HD",FOX SPORT
 https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
 #EXTINF:-1 tvg-logo="test" group-title="SPORT HD",FoxSports
 https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?shareext.ts
