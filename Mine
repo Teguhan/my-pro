@@ -1,4 +1,4 @@
-#EXTM3U
+"#EXTM3U
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"refresh="3600"
@@ -1207,7 +1207,6 @@ http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN",BEINSPORTS 3 (ENGLISH)
 http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 
-
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-Sports-premium-1.png", Bein Premium1
 http://stariptv.org:8080/nour2020/123456/15563
 
@@ -1238,7 +1237,6 @@ https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8?shareext.ts
 http://203.159.95.172:8081/live/bein01/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="BEIN",Bein Liga 2
 http://203.159.95.172:8081/live/bein02/chunks.m3u8
-
 
 +++++++++DELETABLE+++++++++
 
@@ -1283,6 +1281,7 @@ http://103.178.174.200:443/warkoptv/jTaEamL9bA/362
 http://103.178.174.200:443/warkoptv/jTaEamL9bA/363
 #EXTINF:-1 tvg-id="" tvg-name="Citra Entertaiment" tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="LOCAL",Citra Entertaiment
 http://103.178.174.200:443/warkoptv/jTaEamL9bA/377
+
 
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="LOCAL",HBO FHD
 http://103.178.174.200:443/warkoptv/jTaEamL9bA/31
@@ -1371,4 +1370,91 @@ http://103.178.174.200:443/warkoptv/jTaEamL9bA/248
 http://103.178.174.200:443/warkoptv/jTaEamL9bA/391
 #EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA TV HD" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SuperSports HD",NBA TV HD
 http://103.178.174.200:443/warkoptv/jTaEamL9bA/133
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", LaLiga TV 🇬🇧
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/23346.ts
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", Supersport LaLiga 🇬🇧
+http://185.145.43.244:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", Bein Sports English 1 🇬🇧
+http://185.145.43.244:8000/play/a00l/index.m3u8
+
+#EXTINF:-1  group-title="SPORT DUNIA ⚽", Bein Sports English 2 🇬🇧
+http://85.245.237.73:8082/play/a00e
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", BT SPORTS 2 🇬🇧
+http://shareext@urtv.cc:80/live/104595/104595/6748.ts?shareext.ts
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", DSTV SUPERSPORT 🇬🇧
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/515.ts
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", SUPER GRANDSTAND 🇬🇧
+http://185.145.43.244:8000/play/a008/index.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", ZQ SPORTS 🇬🇧
+https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", ZQ SPORTS LIVE 🇬🇧
+https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", RUSH HD 🇬🇧
+http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", RUSH SPORTS 🇬🇧
+http://38.127.211.18/live/c2eds/RushHD/HLS/RushHD-mp4a_128000_eng=4.m3u8 
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", CCTV5 🇨🇳
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", CCTV5 🇨🇳
+http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", CCTV5 + 🇨🇳
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", CANAL CHINO 4 魅力足球 🇨🇳
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", CANAL CHINO 5 新视觉 🇨🇳
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", CANAL CHINO 6 CCTV5+Sport 🇨🇳
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_1 🇯🇵
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_2 🇯🇵
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_3 🇯🇵
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_4 🇯🇵
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽",TVONE 🇲🇾
+http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", Now Sports Prime 🇹🇭
+http://livetv.dnsfor.me/channel.12.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽",RikSports HD 🇹🇭
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", K+ Sport 1 VTN 🇻🇳
+https://raw.githubusercontent.com/cdn-free/bookish-giggle/main/file.m3u8
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", ON Sports+ 🇻🇳
+https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
+
+#EXTINF:-1 group-title="SPORT DUNIA ⚽", ON Sports 🇻🇳
+http://cdn.socolacdn.online:8080/onsporttv/mpegts
+
+
+
+
+
+
 
