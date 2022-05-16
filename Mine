@@ -741,7 +741,7 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-id="6ed60d5287fa8a19e2bf74dadf01674c" tvg-name="SPOTV 1" tvg-logo="http://mantul.biz.id:8888/images/240b4c5897883ac03dc918b0e4d37583.png" group-title="SPORT INDONESIA 🇮🇩",SPOTV 1 FULL HD
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="gost"group-title="SPORT INDONESIA 🇮🇩",SPOTV 2
+#EXTINF:-1 tvg-logo="gost "group-title="SPORT INDONESIA 🇮🇩",SPOTV 2
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 
 #EXTINF:-1 tvg-logo="TEST" group-title="SPORT INDONESIA 🇮🇩",SPOTV malaysia
