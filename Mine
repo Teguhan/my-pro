@@ -665,10 +665,10 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 <=================================================== SPORT INDONESIA 🇮🇩 ======================================================>
 
-#EXTINF:-1 group-title="SPORT INDONESIA 🇮🇩", O Channel
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgCgHQbTqM-Jdafe3L5NX8l1sWWkn8runnQYSrWCaMrTwn0VdLppguNS3_ZZQU8TbIMKXZBkdzWYvWYcewUh5XfE-riBNkQWrkL425E01fzv307m9s73RYwVxzrAs_FhBbRSdMR1aHdzgFIiwENdNCKPiSqkKbxDRFqzsyHj0KX9D1u_OaDnSy5l-xUdw=w320-h320" group-title="SPORT INDONESIA 🇮🇩", O Channel
 https://bagoltvku.my.id/ubaconang/master-18.m3u8
 
-#EXTINF:-1 group-title="SPORT INDONESIA 🇮🇩", O Channel
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgCgHQbTqM-Jdafe3L5NX8l1sWWkn8runnQYSrWCaMrTwn0VdLppguNS3_ZZQU8TbIMKXZBkdzWYvWYcewUh5XfE-riBNkQWrkL425E01fzv307m9s73RYwVxzrAs_FhBbRSdMR1aHdzgFIiwENdNCKPiSqkKbxDRFqzsyHj0KX9D1u_OaDnSy5l-xUdw=w320-h320" group-title="SPORT INDONESIA 🇮🇩", O Channel
 https://www.seulangatv-online.ml/vidio/prem/ochannel.m3u8
 
 
@@ -697,9 +697,9 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="SPORT INDONESIA 🇮🇩",beIN Sport 3 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:-1 tvg-logo="TEST" group-title="SPORT INDONESIA 🇮🇩",|MY| BEIN SPORTS MALAYSIA
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT INDONESIA 🇮🇩", BEIN SPORTS MALAYSIA
 http://mvu03.wanicelife.com:8880/live/SWFAF142528/E964RFED/71104.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SPORT INDONESIA 🇮🇩",|MY| BEIN MAX MALAYSIA
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT INDONESIA 🇮🇩", BEIN MAX MALAYSIA
 http://mvu03.wanicelife.com:8880/live/SWFAF142528/E964RFED/71105.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SPORT INDONESIA 🇮🇩",PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
@@ -741,10 +741,10 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-id="6ed60d5287fa8a19e2bf74dadf01674c" tvg-name="SPOTV 1" tvg-logo="http://mantul.biz.id:8888/images/240b4c5897883ac03dc918b0e4d37583.png" group-title="SPORT INDONESIA 🇮🇩",SPOTV 1 FULL HD
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="gost "group-title="SPORT INDONESIA 🇮🇩",SPOTV 2
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="SPORT INDONESIA 🇮🇩",SPOTV 2
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 
-#EXTINF:-1 tvg-logo="TEST" group-title="SPORT INDONESIA 🇮🇩",SPOTV malaysia
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png" "group-title="SPORT INDONESIA 🇮🇩",SPOTV malaysia
 http://iptv12k.com:35461/8022022301/468985/967
 
 
