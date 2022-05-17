@@ -855,33 +855,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", ASTRO ARENA 2
 https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548312
-#EXTINF: -1 tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  1
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548313
-#EXTINF: -1 tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  1 BACK
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548314
-#EXTINF: -1 tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  1 BACK2
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548315
-#EXTINF: -1 tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  2
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548316
-#EXTINF: -1 tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  2 BACK
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548317
-#EXTINF: -1 tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  2 BACK2
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548318
-#EXTINF: -1 tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  3
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548319
-#EXTINF: -1 tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  3 BACK
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548320
-#EXTINF: -1 tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  3 BACK2
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548321
-#EXTINF: -1 tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  4
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548322
-#EXTINF: -1 tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  4 BACK
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548323
-#EXTINF: -1 tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport  4 BACK2
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548324
-#EXTINF: -1 tvg-id="815" tvg-name="[MY] ASTRO ASSP5 HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport 5
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548325
-
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 1 FHD
 http://iptv.tvmalaysia.cc:80/989651/989651/9024
@@ -912,7 +885,7 @@ http://axcestv.vip:8080/live/freeview/axcestv/792.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 5 FHD Backup
 http://103.178.174.200:443/warkoptv/jTaEamL9bA/5
-"https://uload.ru.com/cdn/premium43/chunks.m3u8
+https://uload.ru.com/cdn/premium43/chunks.m3u8
 
 ######UNI SPORT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
