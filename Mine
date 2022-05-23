@@ -4,254 +4,219 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"refresh="3600"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
-#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
 
-"🇮🇩 INDONESIA"
+"INDONESIA 🇮🇩"
 
 <=================================================== INDONESIA ======================================================>
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgCgHQbTqM-Jdafe3L5NX8l1sWWkn8runnQYSrWCaMrTwn0VdLppguNS3_ZZQU8TbIMKXZBkdzWYvWYcewUh5XfE-riBNkQWrkL425E01fzv307m9s73RYwVxzrAs_FhBbRSdMR1aHdzgFIiwENdNCKPiSqkKbxDRFqzsyHj0KX9D1u_OaDnSy5l-xUdw=w320-h320" group-title="🇮🇩 INDONESIA", O CHANNEL
+===O CHANNEL
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgCgHQbTqM-Jdafe3L5NX8l1sWWkn8runnQYSrWCaMrTwn0VdLppguNS3_ZZQU8TbIMKXZBkdzWYvWYcewUh5XfE-riBNkQWrkL425E01fzv307m9s73RYwVxzrAs_FhBbRSdMR1aHdzgFIiwENdNCKPiSqkKbxDRFqzsyHj0KX9D1u_OaDnSy5l-xUdw=w320-h320" group-title="INDONESIA 🇮🇩", O CHANNEL
 https://akudandia.xyz//locs/akudandia-206.m3u8
 
+===INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="🇮🇩 INDONESIA",INDOSIAR
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="INDONESIA 🇮🇩",INDOSIAR
 https://akudandia.xyz//locs/akudandia-205.m3u8
 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR FHD" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="INDONESIA 🇮🇩", Indosiar 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+
+
+===SCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="INDONESIA 🇮🇩",SCTV
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="🇮🇩 INDONESIA",SCTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="INDONESIA 🇮🇩",SCTV
 https://akudandia.xyz//locs/akudandia-204.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="🇮🇩 INDONESIA",Sctv
+#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="INDONESIA 🇮🇩",Sctv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR FHD" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="🇮🇩 INDONESIA", Indosiar 
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-
+===I NEWS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/182d1c3d/c6f1.png" group-title="🇮🇩 INDONESIA", iNews TV
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/182d1c3d/c6f1.png" group-title="INDONESIA 🇮🇩", iNews TV
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-
-#EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="🇮🇩 INDONESIA",Net TV
+=== NET TV
+#EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="INDONESIA 🇮🇩",Net TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="🇮🇩 INDONESIA",NET TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="INDONESIA 🇮🇩",NET TV
 http://139.99.60.143:35461/8022022301/468985/1813?token=OWFvbmU0djM5NjZSNnJr.ts
 
 
+===KOMPAS TV
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/3a6ab006/f9c1.png" group-title="🇮🇩 INDONESIA", KompasTV
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/3a6ab006/f9c1.png" group-title="INDONESIA 🇮🇩", KompasTV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 
-
+===ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="ANTV.id" group-title="🇮🇩 INDONESIA"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",Antv
+#EXTINF:-1 tvg-ID="ANTV.id" group-title="INDONESIA 🇮🇩"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",Antv
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="INDONESIA 🇮🇩",ANTV
+http://202.150.161.116:80/ANTV/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv
+
+======MNC GROUP====
+
+===MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.kampung.xyz/c/a1512755f08c991f.png" group-title="🇮🇩 INDONESIA",Mnc TV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.kampung.xyz/c/a1512755f08c991f.png" group-title="INDONESIA 🇮🇩",Mnc TV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+===MNC NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/7c3f54e6/fd9f.png" group-title="INDONESIA 🇮🇩", MNC NEWS
+https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-
+=== TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/5435e889-7ef.png" group-title="🇮🇩 INDONESIA", Tvri
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/5435e889-7ef.png" group-title="INDONESIA 🇮🇩", Tvri
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-id="Metro.MACAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="🇮🇩 INDONESIA",Metro TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvri.png" group-title="INDONESIA 🇮🇩",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+===METRO TV
+#EXTINF:-1 tvg-id="Metro.MACAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="INDONESIA 🇮🇩",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="🇮🇩 INDONESIA",GLOBAL TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/metrotv.png" group-title="INDONESIA 🇮🇩",Metro TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd?token=bukuanmetrotv
+
+===GLOBAL TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="INDONESIA 🇮🇩",GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-
+===RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.kampung.xyz/c/c0198572b1f2ff83.png" group-title="🇮🇩 INDONESIA",Rcti
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.kampung.xyz/c/c0198572b1f2ff83.png" group-title="INDONESIA 🇮🇩",Rcti
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+
+===TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="TransTV.id" group-title="🇮🇩 INDONESIA"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="INDONESIA 🇮🇩"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="Trans7.id" group-title="🇮🇩 INDONESIA"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
-https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="🇮🇩 INDONESIA",Zee Bioskop 
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-
-
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="🇮🇩 INDONESIA",RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="🇮🇩 INDONESIA",GTV
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="🇮🇩 INDONESIA",MNCTV
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="🇮🇩 INDONESIA",iNewsTV
-https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="🇮🇩 INDONESIA",TRANS TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="INDONESIA 🇮🇩",TRANS TV
 https://akudandia.xyz//locs/akudandia-733.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="🇮🇩 INDONESIA",TRANS 7
-https://akudandia.xyz//locs/akudandia-734.m3u8
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="🇮🇩 INDONESIA",ANTV
-http://202.150.161.116:80/ANTV/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png" group-title="🇮🇩 INDONESIA",TVONE
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/metrotv.png" group-title="🇮🇩 INDONESIA",Metro TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd?token=bukuanmetrotv
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png" group-title="🇮🇩 INDONESIA",Kompas TV
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="🇮🇩 INDONESIA",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvri.png" group-title="🇮🇩 INDONESIA",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/7c3f54e6/fd9f.png" group-title="🇮🇩 INDONESIA", MNC NEWS
-https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="🇮🇩 INDONESIA", RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ANTV" tvg-name="ANTV" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="🇮🇩 INDONESIA",ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="🇮🇩 INDONESIA",MNC TV
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="NET.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428068_ico.png" group-title="🇮🇩 INDONESIA",NET TV
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="🇮🇩 INDONESIA",SCTV
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="🇮🇩 INDONESIA",Trans TV
+#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="INDONESIA 🇮🇩",Trans TV
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
+
+
+===TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="🇮🇩 INDONESIA",Trans 7
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-ID="Trans7.id" group-title="INDONESIA 🇮🇩"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2b/Vision_Prime_2020.png" group-title="🇮🇩 INDONESIA",Vision Prime
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="eNt.ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/ENT.png/revision/latest/scale-to-width-down/340?cb=20210109124512" group-title="🇮🇩 INDONESIA",MNC ENTERTAINMENT
-https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="🇮🇩 INDONESIA",LIFETIME
-https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="🇮🇩 INDONESIA",IMC
-https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="INDONESIA 🇮🇩",TRANS 7
+https://akudandia.xyz//locs/akudandia-734.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo = "https://www.dropbox.com/s/1rjhhqnzko5gil2/Vision_Prime_2020.png?dl=1", Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="INDONESIA 🇮🇩",Trans 7
+https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+===TV ONE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png" group-title="INDONESIA 🇮🇩",TVONE
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+
+===ZEE BIOSKOP
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="INDONESIA 🇮🇩",Zee Bioskop 
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+===BERITA SATU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="INDONESIA 🇮🇩",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+===VISION PRIME
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2b/Vision_Prime_2020.png" group-title="INDONESIA 🇮🇩",Vision Prime
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo OK TV.PNG", Ok TV
+===MNC ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="eNt.ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/ENT.png/revision/latest/scale-to-width-down/340?cb=20210109124512" group-title="INDONESIA 🇮🇩",MNC ENTERTAINMENT
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+  
+  ===LIFETIME
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="INDONESIA 🇮🇩",LIFETIME
+https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+===INDONESIA MOVIE CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="INDONESIA 🇮🇩",IMC
+https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+===OK TV
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo OK TV.PNG", Ok TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
+===LIFESTYLE FASHION
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Lifestyle_%26_Fashion_%282020%29.jpeg" group-title="🇮🇩 INDONESIA",Lifestyle & Fashion
+#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Lifestyle_%26_Fashion_%282020%29.jpeg" group-title="INDONESIA 🇮🇩",Lifestyle & Fashion
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:0 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="🇮🇩 INDONESIA",Rajawali TV
+===RTV
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="INDONESIA 🇮🇩",Rajawali TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
@@ -357,308 +322,307 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 
 
-<=================================================== MALAYSIA ======================================================>
+<=================================================== MALAYSIA 🇲🇾======================================================>
 
 
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
 
-=================Malaysia===========================================================================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-#EXTINF:-1 tvg-id="001" tvg-name="" tvg-country="MY"tvg-language="Malay" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="Malaysia",TV1
+#EXTINF:-1 tvg-id="001" tvg-name="" tvg-country="MY"tvg-language="Malay" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="MALAYSIA 🇲🇾",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-#EXTINF:-1 tvg-id="002" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" tvg-url="" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-id="002" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" tvg-url="" group-title="MALAYSIA 🇲🇾",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="003" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" tvg-url="" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-id="003" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" tvg-url="" group-title="MALAYSIA 🇲🇾",TV3
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-id="004" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" tvg-url="" group-title="Malaysia",Drama Sangat
+#EXTINF:-1 tvg-id="004" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" tvg-url="" group-title="MALAYSIA 🇲🇾",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-#EXTINF:-1 tvg-id="005" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-url="" group-title="Malaysia",TV-Okey
+#EXTINF:-1 tvg-id="005" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-url="" group-title="MALAYSIA 🇲🇾",TV-Okey
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-#EXTINF:-1 tvg-id="006" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" tvg-url="" group-title="Malaysia",TV6
+#EXTINF:-1 tvg-id="006" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" tvg-url="" group-title="MALAYSIA 🇲🇾",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 tvg-id="007" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2018/11/ntv7-icon_v1-1-g.jpg" tvg-url="" group-title="Malaysia",TV7
+#EXTINF:-1 tvg-id="007" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2018/11/ntv7-icon_v1-1-g.jpg" tvg-url="" group-title="MALAYSIA 🇲🇾",TV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1 tvg-id="008" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png" tvg-url="" group-title="Malaysia",TV8
+#EXTINF:-1 tvg-id="008" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png" tvg-url="" group-title="MALAYSIA 🇲🇾",TV8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1 tvg-id="009" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png" tvg-url="" group-title="Malaysia",TV9
+#EXTINF:-1 tvg-id="009" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png" tvg-url="" group-title="MALAYSIA 🇲🇾",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
-#EXTINF:-1 tvg-id="010" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" tvg-url="" group-title="Malaysia",TV Hijrah
+#EXTINF:-1 tvg-id="010" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" tvg-url="" group-title="MALAYSIA 🇲🇾",TV Hijrah
 https://alhijrahmedia.com/tv-alhijrah-live-streaming/
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-#EXTINF:-1 tvg-id="011" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Malaysia",RTM Berita
+#EXTINF:-1 tvg-id="011" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="MALAYSIA 🇲🇾",RTM Berita
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d 
-#EXTINF:-1 tvg-id="012" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Malaysia",RTM Sport
+#EXTINF:-1 tvg-id="012" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="MALAYSIA 🇲🇾",RTM Sport
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia",8TV 
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MALAYSIA 🇲🇾",8TV 
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-#EXTINF:-1 tvg-id="612" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="Malaysia",Ta-daa! 
+#EXTINF:-1 tvg-id="612" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="MALAYSIA 🇲🇾",Ta-daa! 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="618" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/babytv.png" group-title="Malaysia",BABY TV 
+#EXTINF:-1 tvg-id="618" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/babytv.png" group-title="MALAYSIA 🇲🇾",BABY TV 
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3e4bcc300dc5f243ba5d5b4efca9fd10&key=364bdb669b85e49ef93d0de8b9f31cf3
-#EXTINF:-1 tvg-id="617" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png" group-title="Malaysia",Nick Jr 
+#EXTINF:-1 tvg-id="617" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png" group-title="MALAYSIA 🇲🇾",Nick Jr 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f5f27fe9eb27df6fc1baf702421edb10&key=3942434ec0c37db16af8908d3b65ad61
-#EXTINF:-1 tvg-id="618" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="Malaysia",Moonbug Kids 
+#EXTINF:-1 tvg-id="618" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="MALAYSIA 🇲🇾",Moonbug Kids 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="719" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="Malaysia",ANIMAX 
+#EXTINF:-1 tvg-id="719" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="MALAYSIA 🇲🇾",ANIMAX 
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="615" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="Malaysia",CARTOON NETWORK 
+#EXTINF:-1 tvg-ID="615" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="MALAYSIA 🇲🇾",CARTOON NETWORK 
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="Dreamworks HD" tvg-logo="https://wallpaperaccess.com/full/1667703.jpg" group-title="Malaysia",Dreamworks HD 
+#EXTINF:-1 tvg-id="CHN" tvg-name="Dreamworks HD" tvg-logo="https://wallpaperaccess.com/full/1667703.jpg" group-title="MALAYSIA 🇲🇾",Dreamworks HD 
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=613
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="616" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="Malaysia",NICKELODEON 
+#EXTINF:-1 tvg-id="616" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="MALAYSIA 🇲🇾",NICKELODEON 
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cbeebies.png" group-title="Malaysia",CBEEBIES 
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cbeebies.png" group-title="MALAYSIA 🇲🇾",CBEEBIES 
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="619" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boomerang.png" group-title="Malaysia",BOOMERANG 
+#EXTINF:-1 tvg-id="619" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boomerang.png" group-title="MALAYSIA 🇲🇾",BOOMERANG 
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#EXTINF:-1 tvg-id="111" group-title="Malaysia" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",GO SHOP 
+#EXTINF:-1 tvg-id="111" group-title="MALAYSIA 🇲🇾" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",GO SHOP 
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-name="305" tvg-id="309" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="Malaysia",CELESTIAL MOVIES 
+#EXTINF:-1 tvg-name="305" tvg-id="309" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="MALAYSIA 🇲🇾",CELESTIAL MOVIES 
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-name="305" tvg-id="321" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial%20Classic%20Movies.png" group-title="Malaysia",CELESTIAL CLASSIC MOVIES 
+#EXTINF:-1 tvg-name="305" tvg-id="321" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial%20Classic%20Movies.png" group-title="MALAYSIA 🇲🇾",CELESTIAL CLASSIC MOVIES 
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="705" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="Malaysia",KIX 
+#EXTINF:-1 tvg-ID="705" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MALAYSIA 🇲🇾",KIX 
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="701" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="Malaysia",AXN 
+#EXTINF:-1 tvg-id="701" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="MALAYSIA 🇲🇾",AXN 
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Malaysia",ONE TV 
+#EXTINF:-1 tvg-ID="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="MALAYSIA 🇲🇾",ONE TV 
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="395" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="Malaysia",TVN 
+#EXTINF:-1 tvg-ID="395" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="MALAYSIA 🇲🇾",TVN 
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="416" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="Malaysia",TVN MOVIES 
+#EXTINF:-1 tvg-ID="416" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="MALAYSIA 🇲🇾",TVN MOVIES 
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="712" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warner.png" group-title="Malaysia",WARNER TV 
+#EXTINF:-1 tvg-id="712" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warner.png" group-title="MALAYSIA 🇲🇾",WARNER TV 
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20earth.png" group-title="Malaysia",BBC EARTH 
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20earth.png" group-title="MALAYSIA 🇲🇾",BBC EARTH 
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
-#EXTINF:-1 tvg-ID="717" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20lifestyle.png" group-title="Malaysia",BBC LIFESTYLE 
+#EXTINF:-1 tvg-ID="717" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20lifestyle.png" group-title="MALAYSIA 🇲🇾",BBC LIFESTYLE 
 https://livecdn.fptplay.net/sdb/bbclifestyle_hls.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="714" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="Malaysia",CRIME+INVESTIGATION 
+#EXTINF:-1 tvg-id="714" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="MALAYSIA 🇲🇾",CRIME+INVESTIGATION 
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="556" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428152_ico.png" group-title="Malaysia",ANIMAL PLANET 
+#EXTINF:-1 tvg-ID="556" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428152_ico.png" group-title="MALAYSIA 🇲🇾",ANIMAL PLANET 
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="555" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428147_ico.png" group-title="Malaysia",HISTORY 
+#EXTINF:-1 tvg-id="555" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428147_ico.png" group-title="MALAYSIA 🇲🇾",HISTORY 
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="551" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NATIONAL GEOGRAPHIC 
+#EXTINF:-1 tvg-ID="551" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="MALAYSIA 🇲🇾",NATIONAL GEOGRAPHIC 
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="550" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428319_ico.png" group-title="Malaysia",NAT GEOWILD 
+#EXTINF:-1 tvg-id="550" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428319_ico.png" group-title="MALAYSIA 🇲🇾",NAT GEOWILD 
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png" group-title="Malaysia" tvg-id="CHN" tvg-name="502", Love Nature HD 
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png" group-title="MALAYSIA 🇲🇾" tvg-id="CHN" tvg-name="502", Love Nature HD 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="515" group-title="Malaysia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA 
+#EXTINF:-1 tvg-id="515" group-title="MALAYSIA 🇲🇾" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="517" group-title="Malaysia"tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",BLOOMBERG 
+#EXTINF:-1 tvg-id="517" group-title="MALAYSIA 🇲🇾"tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",BLOOMBERG 
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1 tvg-id="503" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN 
+#EXTINF:-1 tvg-id="503" group-title="MALAYSIA 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN 
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT WORLD 
+#EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT WORLD 
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="398" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK WORLD JAPAN 
+#EXTINF:-1 tvg-id="398" group-title="MALAYSIA 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK WORLD JAPAN 
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARY 
+#EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARY 
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeebioskop.png" group-title="Malaysia",ZEE BIOSKOP 
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeebioskop.png" group-title="MALAYSIA 🇲🇾",ZEE BIOSKOP 
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="707" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Malaysia",TLC 
+#EXTINF:-1 tvg-ID="707" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="MALAYSIA 🇲🇾",TLC 
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="Malaysia",CHANNEL 5 
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="MALAYSIA 🇲🇾",CHANNEL 5 
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
-#EXTINF:-1 group-title="Malaysia" tvg-id="1001" tvg-chno="1001" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham 
+#EXTINF:-1 group-title="MALAYSIA 🇲🇾" tvg-id="1001" tvg-chno="1001" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham 
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="Malaysia",CHANNEL 8 
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="MALAYSIA 🇲🇾",CHANNEL 8 
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="Malaysia",CHANNEL U 
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="MALAYSIA 🇲🇾",CHANNEL U 
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="Malaysia",FMN 
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="MALAYSIA 🇲🇾",FMN 
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-chno="CHN" tvg-id="CHN" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/hunan.png",HUNAN TV HD 
+#EXTINF:-1 tvg-chno="CHN" tvg-id="CHN" group-title="MALAYSIA 🇲🇾" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/hunan.png",HUNAN TV HD 
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="Malaysia",GALAXY 
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="MALAYSIA 🇲🇾",GALAXY 
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="Malaysia",GALAXY PREMIUM 
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="MALAYSIA 🇲🇾",GALAXY PREMIUM 
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428257_ico.png" group-title="Malaysia",ROCK ENTERTAINMENT 
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428257_ico.png" group-title="MALAYSIA 🇲🇾",ROCK ENTERTAINMENT 
 https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist.m3u8
 http://playlist.urfan.web.id/dr9445/h/h16/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428258_ico.png" group-title="Malaysia",ROCK EXTREME 
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428258_ico.png" group-title="MALAYSIA 🇲🇾",ROCK EXTREME 
 https://livecdn.fptplay.net/hda1/blueantext_hls.smil/chunklist.m3u8
 http://playlist.urfan.web.id/dr9445/h/h15/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-name="304" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="Malaysia",THRILL 
+#EXTINF:-1 tvg-name="304" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MALAYSIA 🇲🇾",THRILL 
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="706" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="Malaysia",HITS 
+#EXTINF:-1 tvg-ID="706" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="MALAYSIA 🇲🇾",HITS 
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="HBOHD" tvg-id="411" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="Malaysia",HBO 
+#EXTINF:-1 tvg-name="HBOHD" tvg-id="411" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="MALAYSIA 🇲🇾",HBO 
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="HBOHitsHD" tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Malaysia",HBO HITS 
+#EXTINF:-1 tvg-name="HBOHitsHD" tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="MALAYSIA 🇲🇾",HBO HITS 
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-name="401" tvg-id="401" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="Malaysia",HITS MOVIE 
+#EXTINF:-1 tvg-name="401" tvg-id="401" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="MALAYSIA 🇲🇾",HITS MOVIE 
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="HBOFamilyHD" tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Malaysia",HBO FAMILY 
+#EXTINF:-1 tvg-name="HBOFamilyHD" tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MALAYSIA 🇲🇾",HBO FAMILY 
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 
@@ -1249,6 +1213,7 @@ http://stariptv.org:8080/nour2020/123456/15562
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-Sports-premium-1.png", Bein Premium3
 http://stariptv.org:8080/nour2020/123456/15561
 
+
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN",Beinsports English 1
 http://new-pro.tv:8080/Fernando/123321/219142?checkedby:iptvcat.com
 
@@ -1334,6 +1299,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_3 🇯🇵
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+
 #EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_4 🇯🇵
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -1351,10 +1317,6 @@ https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
 
 #EXTINF:-1 group-title="SPORT DUNIA ⚽", ON Sports 🇻🇳
 http://cdn.socolacdn.online:8080/onsporttv/mpegts
-
-
-
-
 
 
 
