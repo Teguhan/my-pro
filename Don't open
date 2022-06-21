@@ -7,60 +7,60 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
-#EXTINF:-1 tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/o-channel-id.png" group-title="HD TV",O CHANNEL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgCgHQbTqM-Jdafe3L5NX8l1sWWkn8runnQYSrWCaMrTwn0VdLppguNS3_ZZQU8TbIMKXZBkdzWY" group-title="HD TV",O CHANNEL
 udp://@224.1.1.6:1234
 
-#EXTINF:-1 tvg-id="indosiar" tvg-name="indosiar" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/indosiar-id.png" group-title="HD TV",INDOSIAR
+#EXTINF:-1 tvg-id="indosiar" tvg-name="indosiar" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="HD TV",INDOSIAR
 udp://@224.1.1.2:1234
 
-#EXTINF:-1 tvg-id="sctv" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/sctv-id.png" group-title="HD TV", SCTV
+#EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="HD TV", SCTV
 udp://@224.1.1.5:1234
 
-#EXTINF:0 tvg-id="rcti" tvg-name="rcti" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/rcti-id.png" group-title="HD TV",RCTI
+#EXTINF:0 tvg-id="rcti" tvg-name="rcti" tvg-logo="https://i.kampung.xyz/c/c0198572b1f2ff83.png" group-title="HD TV",RCTI
 udp://@224.1.1.31:1234
 
-#EXTINF:0 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/mnc-tv-id.png" group-title="HD TV",MNCTV
+#EXTINF:0 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="https://i.kampung.xyz/c/a1512755f08c991f.png" group-title="HD TV",MNCTV
 udp://@224.1.1.35:1234
 
-#EXTINF:0 tvg-id="gtv" tvg-name="gtv" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/gtv-id.png" group-title="HD TV",GTV
+#EXTINF:0 tvg-id="gtv" tvg-name="gtv" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/gtv-id.png" group-title="HD TV",GTV
 udp://@224.1.1.33:1234
 
-#EXTINF:0 tvg-id="i-news" tvg-name="i-news" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/inews-id.png" group-title="HD TV",iNews TV
+#EXTINF:0 tvg-id="i-news" tvg-name="i-news" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/inews-id.png" group-title="HD TV",iNews TV
 udp://@224.1.1.34:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/tvri-sport-id.png" group-title="HD TV",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/tvri-sport-id.png" group-title="HD TV",TVRI SPORT
 udp://@239.2.2.15:3000
 
-#EXTINF:-1 tvg-id="metrotv" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/metro-tv-id.png" group-title="HD TV", METRO TV
+#EXTINF:-1 tvg-id="metrotv" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/metro-tv-id.png" group-title="HD TV", METRO TV
 udp://@224.1.1.11:1234
 
-#EXTINF:-1 tvg-id="transtv" tvg-name="transtv" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/trans-tv-id.png" group-title="HD TV",TRANS TV
+#EXTINF:-1 tvg-id="transtv" tvg-name="transtv" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/trans-tv-id.png" group-title="HD TV",TRANS TV
 udp://@224.1.1.21:1234
 
-#EXTINF:-1 tvg-id="trans7" tvg-name="trans7" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/trans-7-id.png" group-title="HD TV",TRANS 7
+#EXTINF:-1 tvg-id="trans7" tvg-name="trans7" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/trans-7-id.png" group-title="HD TV",TRANS 7
 udp://@224.1.1.22:1234
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/tv-one-id.png" group-title="HD TV",TVONE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/tv-one-id.png" group-title="HD TV",TVONE
 udp://@239.2.2.2:3004
 
-#EXTINF:0 tvg-id="kompastv" tvg-name="kompastv" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/kompas-tv-id.png" group-title="HD TV",Kompas TV
+#EXTINF:0 tvg-id="kompastv" tvg-name="kompastv" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/kompas-tv-id.png" group-title="HD TV",Kompas TV
 udp://@224.1.1.28:1234
 
 
-#EXTINF: -1 tvg-id="net" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/net-id.png" group-title="HD TV", NET TV
+#EXTINF: -1 tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/net-id.png" group-title="HD TV", NET TV
 udp://@239.2.2.29:3000
 
-#EXTINF:0 tvg-id="antv" tvg-name="antv" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/antv-id.png" group-title="HD TV",ANTV
+#EXTINF:0 tvg-id="antv" tvg-name="antv" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/antv-id.png" group-title="HD TV",ANTV
 udp://@239.2.2.5:3000
 
-#EXTINF:0 tvg-id="tvri" tvg-name="tvri" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/tvri-id.png" group-title="HD TV",TVRI
+#EXTINF:0 tvg-id="tvri" tvg-name="tvri" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/tvri-id.png" group-title="HD TV",TVRI
 udp://@239.2.2.13:3000
 
-#EXTINF:-1 tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/tvri-world-id.png" group-title="HD TV",TVRI World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/tvri-world-id.png" group-title="HD TV",TVRI World
 udp://@239.2.2.14:3000
 
 
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/indonesia/rtv-id.png" group-title="HD TV", RTV
+#EXTINF:-1 tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/rtv-id.png" group-title="HD TV", RTV
 udp://@224.1.1.14:1234
 
 
@@ -78,26 +78,26 @@ udp://@224.1.1.7:1234
 udp://@224.1.1.12:1234
 
 
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",TVRI Jatim
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/TVRIJatimLogo2019.svg" group-title="HD TV",TVRI Jatim
 udp://@239.2.2.4:3008
 
-#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:Logo_RRI_NET.png" group-title="HD TV",RRI Net
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Logo_RRI_NET.png" group-title="HD TV",RRI Net
 udp://@239.2.2.17:3026
 
-#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/BNTV#/media/Berkas%3ABNTV_Indonesia.png" group-title="HD TV",BN TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BNTV_Indonesia.png" group-title="HD TV",BN TV
 udp://@224.1.1.13:1234
-#EXTINF:-1 tvg-logo="https://logo-timeline.fandom.com/wiki/CNN_Indonesia?file=CNN_Indonesia_Vertical.png" group-title="HD TV",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/240px-CNN_Indonesia.svg.png" group-title="HD TV",CNN Indonesia
 udp://@224.1.1.26:1234
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/CNBC_Indonesia#/media/File%3ACNBC_Indonesia.png" group-title="HD TV",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="HD TV",CNBC Indonesia
 udp://@224.1.1.27:1234
 
 
-#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/SEA_Today#/media/Berkas%3ASEA_Today_Indonesia_Logo.png" group-title="HD TV",Sea Today
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="HD TV",Sea Today
 udp://@239.2.2.3:3002
 
-#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/Jogja_TV#/media/Berkas%3AJogjatv3d.png" group-title="HD TV",Jogja TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/Jogjatv3d.png" group-title="HD TV",Jogja TV
 udp://@239.2.2.6:3010
-#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/Music_TV#/media/Berkas%3AMusic_TV_(2020).png" group-title="HD TV",Music Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png" group-title="HD TV",Music Tv
 udp://@239.2.2.7:3006
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Niaga_TV?file=Niaga_TV.jpg" group-title="HD TV",Niaga TV
 udp://@239.2.2.8:3012
@@ -108,49 +108,49 @@ udp://@239.2.2.9:3014
 udp://@239.2.2.10:3016
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sinema_Indonesia_(TV_channel)?file=Sinema_Indonesia.png" group-title="HD TV",Sinema Indonesia
 udp://@239.2.2.21:3020
-#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/K-Drama_(Indonesia)#/media/Berkas%3AK-drama_logo.jpg" group-title="HD TV",K Drama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="HD TV",K Drama
 udp://@239.2.2.12:3022
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-CMNKrpUmlj8/XE6oAgKVlpI/AAAAAAAAnI8/5kLljhrSNPk1ds6cA-W-yKY0NdsTaRx3ACLcBGAs/s280/frekuensi-sinema-indonesia-x.jpg" group-title="HD TV",Sinema X
 udp://@239.2.2.16:3024
-#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/KTV#/media/Berkas%3AKTV_28UHF.png" group-title="HD TV",KTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="HD TV",KTV
 udp://@239.2.2.18:3028
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Logo_nusantaratv.png" group-title="HD TV",Nusantara TV
 udp://@239.2.2.19:3030
-#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:Logo_Jak_TV_(2018).png" group-title="HD TV",JAK TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png" group-title="HD TV",JAK TV
 udp://@239.2.2.20:3032
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="HD TV",MY TV
 udp://@239.2.2.22:3034
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",Elsinta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="HD TV",Elsinta TV
 udp://@239.2.2.24:3038
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",RTTL
+#EXTINF:-1 tvg-logo=" " group-title="HD TV",RTL
 udp://@239.2.2.37:3064
 
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",Salam TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="HD TV",Salam TV
 udp://@239.2.2.11:3018
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",Fatwa TV
+#EXTINF:-1 tvg-logo="https://dewanfatwa.com/wp-content/uploads/Logo-Fatwa-Green.png" group-title="HD TV",Fatwa TV
 udp://@239.2.2.23:3036
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",Insan TV
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/insan-tv-logo-1-1-1.jpg" group-title="HD TV",Insan TV
 udp://@239.2.2.25:3040
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",AshiilTV
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="HD TV",AshiilTV
 udp://@239.2.2.26:3042
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",SurauTV
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logosurautv-1-300x131-2-1-1.png" group-title="HD TV",SurauTV
 udp://@239.2.2.27:3044
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",Ahsan TV
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/AHSAN-TV-Logo-1-1.png" group-title="HD TV",Ahsan TV
 udp://@239.2.2.28:3046
-#EXTINF:-1 tvg-logo=" " group-title="HD TV", Muadz TV
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2020/02/Muadz-TV.jpg" group-title="HD TV", Muadz TV
 udp://@239.2.2.29:3048
-#EXTINF:-1 tvg-logo=" " group-title="HD TV", Rasyaad TV
+#EXTINF:-1 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" group-title="HD TV", Rasyaad TV
 udp://@239.2.2.30:3050
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",Izzah TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDcw4VBhD0zbmSk7wGdvciUbGfrRIoHAxHMI7SKNymGferMcBptCRwokU&s=10" group-title="HD TV",Izzah TV
 udp://@239.2.2.31:3052
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",Hijrah TV
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Hijrah_TV?file=Hijrah_TV_logo3.png" group-title="HD TV",Hijrah TV
 udp://@239.2.2.32:3054
-#EXTINF:-1 tvg-logo=" " group-title="HD TV",Al-Iman TV
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/SUARA-ALIMAN-KIRIM-1-1.png" group-title="HD TV",Al-Iman TV
 udp://@239.2.2.33:3056
-#EXTINF:-1 tvg-logo=" " group-title="HD TV", RadioKita TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AyLyMzyR-bc/YFAzFiz_MHI/AAAAAAAAqf0/lOMDHgJ3POIE10VrICN9cqDm5PufmkPnQCLcBGAsYHQ/s0/radio-kita-tv-channel-logo.png" group-title="HD TV", RadioKita TV
 udp://@239.2.2.34:3058
-#EXTINF:-1 tvg-logo=" " group-title="HD TV", Madinah TV
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7xJ__ouF6os/VlZlmiGX23I/AAAAAAAAbr8/nqwBcUA00qA/s1600/saudi-sunnah-logo.png" group-title="HD TV", Madinah TV
 udp://@239.2.2.35:3060
-#EXTINF:-1 tvg-logo=" " group-title="HD TV", Makkah TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPCs__iptQKR97TbLTvS09rNfF8hTHTWesQ&usqp=CAU" group-title="HD TV", Makkah TV
 udp://@239.2.2.36:3062
 
