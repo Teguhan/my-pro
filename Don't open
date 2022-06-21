@@ -7,7 +7,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgCgHQbTqM-Jdafe3L5NX8l1sWWkn8runnQYSrWCaMrTwn0VdLppguNS3_ZZQU8TbIMKXZBkdzWY" group-title="HD TV",O CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/indonesia/o-channel-id.png" group-title="HD TV",O CHANNEL
 udp://@224.1.1.6:1234
 
 #EXTINF:-1 tvg-id="indosiar" tvg-name="indosiar" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="HD TV",INDOSIAR
@@ -78,7 +78,7 @@ udp://@224.1.1.7:1234
 udp://@224.1.1.12:1234
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/TVRIJatimLogo2019.svg" group-title="HD TV",TVRI Jatim
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVRIJatimLogo2019.svg/640px-TVRIJatimLogo2019.svg.png" group-title="HD TV",TVRI Jatim
 udp://@239.2.2.4:3008
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Logo_RRI_NET.png" group-title="HD TV",RRI Net
@@ -99,14 +99,14 @@ udp://@239.2.2.3:3002
 udp://@239.2.2.6:3010
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png" group-title="HD TV",Music Tv
 udp://@239.2.2.7:3006
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Niaga_TV?file=Niaga_TV.jpg" group-title="HD TV",Niaga TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOx_g-D_FJtZgiugrDzQE6_V2_hgUXcPKT1g&usqp=CAU" group-title="HD TV",Niaga TV
 udp://@239.2.2.8:3012
 
 #EXTINF:-1 tvg-logo=" " group-title="HD TV",Asia TV
 udp://@239.2.2.9:3014
 #EXTINF:-1 tvg-logo=" " group-title="HD TV",DM TV
 udp://@239.2.2.10:3016
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sinema_Indonesia_(TV_channel)?file=Sinema_Indonesia.png" group-title="HD TV",Sinema Indonesia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="HD TV",Sinema Indonesia
 udp://@239.2.2.21:3020
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="HD TV",K Drama
 udp://@239.2.2.12:3022
@@ -143,7 +143,7 @@ udp://@239.2.2.29:3048
 udp://@239.2.2.30:3050
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDcw4VBhD0zbmSk7wGdvciUbGfrRIoHAxHMI7SKNymGferMcBptCRwokU&s=10" group-title="HD TV",Izzah TV
 udp://@239.2.2.31:3052
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Hijrah_TV?file=Hijrah_TV_logo3.png" group-title="HD TV",Hijrah TV
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2020/02/Hijrah-TV-2.png" group-title="HD TV",Hijrah TV
 udp://@239.2.2.32:3054
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/SUARA-ALIMAN-KIRIM-1-1.png" group-title="HD TV",Al-Iman TV
 udp://@239.2.2.33:3056
