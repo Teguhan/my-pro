@@ -821,22 +821,26 @@ https://link.zozotv.xyz:443/fx2/fx2/361
 
 ######CHAMPIONS TV
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png" group-title="SPORT INDONESIA 🇮🇩", Champions TV Goal
+https://tvn10.xyz/vidio/chg.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/tDQ6xFK/champions1-home-tv.png" group-title="SPORT INDONESIA 🇮🇩",Champions TV 1 HD
-https://bagoltvku.my.id/PUNYA-MVTV/master-6.m3u8
+https://tvn10.xyz/vidio/ch1.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/2ZfB6PP/champions2-home-tv.png" group-title="SPORT INDONESIA 🇮🇩",Champions TV 2 HD
-https://bagoltvku.my.id/PUNYA-MVTV/master-7.m3u8
+https://tvn10.xyz/vidio/ch2.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/4Ywp0jJ/champions3-home-tv.png" group-title="SPORT INDONESIA 🇮🇩",Champions TV 3 HD
-https://bagoltvku.my.id/PUNYA-MVTV/master-8.m3u8
+https://tvn10.xyz/vidio/ch3.m3u8
+
 
 
 <=================================================== SPORT MALAYSIA 🇲🇾 ======================================================>
