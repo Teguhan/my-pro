@@ -777,8 +777,7 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-id="6ed60d5287fa8a19e2bf74dadf01674c" tvg-name="SPOTV 1" tvg-logo="http://mantul.biz.id:8888/images/240b4c5897883ac03dc918b0e4d37583.png" group-title="SPORT INDONESIA 🇮🇩",SPOTV 1 FULL HD
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="SPORT INDONESIA 🇮🇩",SPOTV 2
-https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
+
 
 ##### MNC SPORT
 
@@ -790,8 +789,6 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPORT INDONESIA 🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel Non Liga
-https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
 
 
 
@@ -814,9 +811,11 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 ##### USSEE SPORT
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORT INDONESIA 🇮🇩",Usee Sports 1
-https://link.zozotv.xyz:443/fx2/fx2/360
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1717.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORT INDONESIA 🇮🇩",Usee Sports 2
-https://link.zozotv.xyz:443/fx2/fx2/361
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1718.m3u8
+
 
 ######CHAMPIONS TV
 
@@ -876,58 +875,33 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTufYzacJd_IBuN2OExh_9-CUJ4uUcH1pv7Kg&usqp=CAU" group-title="SPORT MALAYSIA 🇲🇾",Astro Arena 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+#EXTINF:-1 tvg-id="Arena.id" tvg-name="Astro Arena" tvg-logo="https://i.postimg.cc/mDZNtDpp/aren.jpg" group-title="SPORT MALAYSIA 🇲🇾",Astro Arena
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1825.m3u8
+#EXTINF:-1 tvg-id="Arena2.id" tvg-name="Astro Arena 2" tvg-logo="https://i.postimg.cc/mDZNtDpp/aren.jpg" group-title="SPORT MALAYSIA 🇲🇾",Astro Arena 2
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_Arena_HD.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Arena (B)
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26821.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Astro_Arena_2.png/240px-Astro_Arena_2.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Arena 2
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=965
-#EXTINF: -1 tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", ASTRO ARENA A
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548310
-#EXTINF: -1 tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", ASTRO ARENA B
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548311
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro SuperSport HD
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/6460.m3u8
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro SuperSport 2 HD
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/7554.m3u8
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro SuperSport 3 HD
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/7555.m3u8
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport 4 HD
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/12273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_5?file=AstroSupersport5Flat.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Supersport 5
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26352.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTufYzacJd_IBuN2OExh_9-CUJ4uUcH1pv7Kg&usqp=CAU" group-title="SPORT MALAYSIA 🇲🇾",Astro Arena 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP1.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORT MALAYSIA 🇲🇾",ASSP MY 1
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25098.m3u8
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png"" group-title="SPORT MALAYSIA 🇲🇾",ASSP MY 2
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25325.m3u8
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORT MALAYSIA 🇲🇾",ASSP MY 3
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25326.m3u8
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORT MALAYSIA 🇲🇾",ASSP MY 4
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25327.m3u8
 
-#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT MALAYSIA 🇲🇾", ASTRO ARENA 2
-https://m3u-editor.com/serve/0c047c90-d43b-11ec-82d6-0f5969db2616/564548312
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 1 FHD
-http://iptv.tvmalaysia.cc:80/989651/989651/9024
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 1 FHD Backup
-http://203.154.243.89:21201/nakhon
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 2 HD
-http://iptv.tvmalaysia.cc:80/989651/989651/9025
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 2 HD Backup
-http://203.154.243.89:21202/nakhon
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 3 FHD
-http://iptv.tvmalaysia.cc:80/989651/989651/9020
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 3 FHD Backup
-http://203.154.243.89:21203/nakhon
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 4 FHD
-http://iptv.tvmalaysia.cc:80/989651/989651/9026
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 4 FHD Backup
-http://203.154.243.89:21204/nakhon
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 5 FHD
-http://axcestv.vip:8080/live/freeview/axcestv/792.ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Sports 5 FHD Backup
-http://103.178.174.200:443/warkoptv/jTaEamL9bA/5
-https://uload.ru.com/cdn/premium43/chunks.m3u8
 
 ######UNI SPORT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1262,139 +1236,106 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="BEIN",beIN Sport 3 Indonesia
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="BEIN",Bein SPORT 1
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="BEIN",Bein sport 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="BEIN",Bein sport 3
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="BEIN SPORT 1 ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="BEIN",BEIN SPORT 1 ID
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25256.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN",BeinSports 1
-http://93.152.174.144:4000/play/bein1fr/index.m3u8?shareext.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN",BeinSports 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8?shareext.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN",BeinSport 3
-http://4digital.ddns.net:11222/ts/0
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN",BEINSPORTS 1 (ENGLISH)
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN",BEINSPORTS 2 (ENGLISH)
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN",BEINSPORTS 3 (ENGLISH)
-http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="BEIN SPORT 2 ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="BEIN",BEIN SPORT 2 ID
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25257.m3u8
 
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-Sports-premium-1.png", Bein Premium1
-http://stariptv.org:8080/nour2020/123456/15563
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN",Bein Sport 3 ID
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26426.m3u8
 
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f893%2fbein-Sports-premium-1.png", Bein Premium2
-http://stariptv.org:8080/nour2020/123456/15562
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport My" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/800px-Bein_sport_logo.png" group-title="BEIN",Bein Sport MY
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26428.m3u8
 
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-Sports-premium-1.png", Bein Premium3
-http://stariptv.org:8080/nour2020/123456/15561
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="BEIN",Bein Sport 1 
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26424.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 My" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN",Bein Sport 3 My
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26427.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN",Beinsports English 1
-http://new-pro.tv:8080/Fernando/123321/219142?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Bein1Eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="BEIN",Bein Sport 1 Eng
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/24582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein2Eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="BEIN",Bein Sport 2 Eng
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/24841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein3Eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN",Bein Sport 3 Eng 
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/24842.ts
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN",Beinsports English 2
-http://new-pro.tv:8080/Fernando/123321/219143?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="BEIN",Beinsports English 3
-http://new-pro.tv:8080/Fernando/123321/219144?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN",beINSports 1 HD
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204654.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN",BeinSport 2 HD
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204655.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="BEIN",Beinsport xtra ÃƒÂ±
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="BEIN",Beinsport xtra
-https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="BEIN",Bein Liga 1
-http://203.159.95.172:8081/live/bein01/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="BEIN",Bein Liga 2
-http://203.159.95.172:8081/live/bein02/chunks.m3u8
-
-+++++++++DELETABLE+++++++++
-
-##########+++++++SPORT DUNIA++++++########
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", LaLiga TV 🇬🇧
-http://starshare.live:8080/live/Shoaibkhan/Yazan786/23346.ts
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", Supersport LaLiga 🇬🇧
-http://185.145.43.244:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", Bein Sports English 1 🇬🇧
-http://185.145.43.244:8000/play/a00l/index.m3u8
-
-#EXTINF:-1  group-title="SPORT DUNIA ⚽", Bein Sports English 2 🇬🇧
-http://85.245.237.73:8082/play/a00e
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", BT SPORTS 2 🇬🇧
-http://shareext@urtv.cc:80/live/104595/104595/6748.ts?shareext.ts
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", DSTV SUPERSPORT 🇬🇧
-http://starshare.live:8080/live/Shoaibkhan/Yazan786/515.ts
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", SUPER GRANDSTAND 🇬🇧
-http://185.145.43.244:8000/play/a008/index.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", ZQ SPORTS 🇬🇧
-https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", ZQ SPORTS LIVE 🇬🇧
-https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", RUSH HD 🇬🇧
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", RUSH SPORTS 🇬🇧
-http://38.127.211.18/live/c2eds/RushHD/HLS/RushHD-mp4a_128000_eng=4.m3u8 
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CCTV5 🇨🇳
-https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CCTV5 🇨🇳
-http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CCTV5 + 🇨🇳
-http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CANAL CHINO 4 魅力足球 🇨🇳
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CANAL CHINO 5 新视觉 🇨🇳
-http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CANAL CHINO 6 CCTV5+Sport 🇨🇳
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_1 🇯🇵
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_2 🇯🇵
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_3 🇯🇵
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT 1  Eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="BEIN",beIN SPORT 1  Eng
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/633.m3u8
+#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="Bein Sport 2 Eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="BEIN",Bein Sport 2 Eng
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1801.m3u8
 
 
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_4 🇯🇵
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", Now Sports Prime 🇹🇭
-http://livetv.dnsfor.me/channel.12.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽",RikSports HD 🇹🇭
-https://nn.geo.joj.sk/live/hls/rik-540.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", K+ Sport 1 VTN 🇻🇳
-https://raw.githubusercontent.com/cdn-free/bookish-giggle/main/file.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", ON Sports+ 🇻🇳
-https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", ON Sports 🇻🇳
-http://cdn.socolacdn.online:8080/onsporttv/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 1" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN",Bein Sport Premium 1
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN",Bein Sport Premium 2
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 3" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN",Bein Sport Premium 3
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25564.m3u8
 
 
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 (hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="BEIN",beIN SPORTS 1 (hevc)
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1784.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="beIN SPORTS 2 (hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="BEIN",beIN SPORTS 2 (hevc)
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1785.m3u8
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 (hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN",beIN SPORTS 3 (hevc)
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1786.m3u8
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 (hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/798px-Logo_bein_sports_4.png" group-title="BEIN",beIN SPORTS 4 (hevc)
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1787.m3u8
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 (hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN",beIN SPORTS 5 (hevc)
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 (hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN",beIN SPORTS 6 (hevc)
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 (hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN",beIN SPORTS 7 (hevc)
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1790.m3u8
+
+
+++++++++++++DELETABLE++++++++
+OPTUS
+#EXTINF:-1 tvg-id="" tvg-name="Optus Sports 1" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg" group-title="SPORT DUNIA BARU",Optus Sports 1
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/11973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Optus Sports 2" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg" group-title="SPORT DUNIA BARU",Optus Sports 2
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/11974.m3u8
+
+
+EUROSPORT
+#EXTINF:-1 tvg-id="eurosport.my" tvg-name="EuroSport 1" tvg-logo="https://zalogi.xyz/logo/euro1122.png" group-title="SPORT DUNIA BARU",EuroSport 1
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/600.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport 2" tvg-logo="http://zalogi.xyz/logo/euro22.png" group-title="SPORT DUNIA BARU",Eurosport 2
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/653.m3u8
+
+BT SPORT UK
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN HD" tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORT DUNIA BARU",UK: BT Sport ESPN HD
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/563.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sports 1" tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORT DUNIA BARU",UK: BT Sports 1
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/560.m3u8
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sports 2" tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORT DUNIA BARU",UK: BT Sports 2
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/561.m3u8
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sports 3" tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORT DUNIA BARU",UK: BT Sports 3
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/562.m3u8
+
+
+
+DAZN
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 " tvg-logo="https://i.postimg.cc/vBKy5P5m/DAZN.png" group-title="SPORT DUNIA BARU",DAZN 1 
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 DE" tvg-logo="https://i.postimg.cc/vBKy5P5m/DAZN.png" group-title="SPORT DUNIA BARU",DAZN 2
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/541.m3u8
+
+DSTV
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Football" tvg-logo="https://i.ibb.co/LdKnp3Y/csn.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Football
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport LaLiga" tvg-logo="https://i.ibb.co/2MGQJZP/supersport-la-liga.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport LaLiga
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Supersport Motorsport" tvg-logo="https://i.ibb.co/4d3ntSr/supersport-blitz.png" group-title="SPORT DUNIA BARU",DSTV: Supersport Motorsport
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 1" tvg-logo="https://i.ibb.co/mDDdHQ4/supersport-variety-1.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Variety 1
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 2" tvg-logo="https://i.ibb.co/ngxhM4r/supersport-variety-2.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Variety 2
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 3" tvg-logo="https://i.ibb.co/tLyXN07/supersport-variety-3.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Variety 3
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 4" tvg-logo="https://i.ibb.co/Khcjyt4/supersport-variety-4.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Variety 4
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1772.m3u8
 
