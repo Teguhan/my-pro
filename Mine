@@ -696,6 +696,30 @@ https://tvn10.xyz/vidio/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORT INDONESIA 🇮🇩",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORT INDONESIA 🇮🇩",BT Sport 1
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/270
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="SPORT INDONESIA 🇮🇩",BT Sport 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/273
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORT INDONESIA 🇮🇩",BT Sport 3
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/271
+
+
+#EXTINF:-1 xui-id="89117" tvg-id="ChampionsTV1.id" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png" group-title="SPORT INDONESIA 🇮🇩",Eurosport 1
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128362.m3u8
+
+#EXTINF:-1 xui-id="89118" tvg-id="ChampionsTV2.id" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png" group-title="SPORT INDONESIA 🇮🇩",Eurosport 2
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128363.m3u8
+
+#EXTINF:-1 xui-id="89119" tvg-id="ChampionsTV3.id" tvg-name="Premiere Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png" group-title="SPORT INDONESIA 🇮🇩",Premiersport 1
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128364.m3u8
+
+#EXTINF:-1 xui-id="90269" tvg-id="ChampionsTV4.id" tvg-name="Premiere Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png" group-title="SPORT INDONESIA 🇮🇩",Premiersport 2
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128365.m3u8
+
 
 ###### BEIN SPORT INDONESIA
 
@@ -764,6 +788,17 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
 ##### USSEE SPORT
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="SPORT INDONESIA 🇮🇩", Usee Sports 1
+http://iptvid.my.id/nyak/useetl1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="SPORT INDONESIA 🇮🇩" , Usee Sports 2
+http://iptvid.my.id/nyak/useetl2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORT INDONESIA 🇮🇩",Usee Sports 1
 https://lnk.ec/SHAREEXT@us1.ts
 
