@@ -11,13 +11,13 @@
 <=================================================== INDONESIA ======================================================>
 ===O CHANNEL
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgCgHQbTqM-Jdafe3L5NX8l1sWWkn8runnQYSrWCaMrTwn0VdLppguNS3_ZZQU8TbIMKXZBkdzWYvWYcewUh5XfE-riBNkQWrkL425E01fzv307m9s73RYwVxzrAs_FhBbRSdMR1aHdzgFIiwENdNCKPiSqkKbxDRFqzsyHj0KX9D1u_OaDnSy5l-xUdw=w320-h320" group-title="INDONESIA 🇮🇩", O CHANNEL
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-13.m3u8
+https://tvn10.xyz/vidio/master.m3u8
 
 ===INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="INDONESIA 🇮🇩",INDOSIAR
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8
+https://tvn10.xyz/vidio/master.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR FHD" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="INDONESIA 🇮🇩", Indosiar 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
@@ -687,10 +687,14 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 <=================================================== SPORT INDONESIA 🇮🇩 ======================================================>
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgCgHQbTqM-Jdafe3L5NX8l1sWWkn8runnQYSrWCaMrTwn0VdLppguNS3_ZZQU8TbIMKXZBkdzWYvWYcewUh5XfE-riBNkQWrkL425E01fzv307m9s73RYwVxzrAs_FhBbRSdMR1aHdzgFIiwENdNCKPiSqkKbxDRFqzsyHj0KX9D1u_OaDnSy5l-xUdw=w320-h320" group-title="SPORT INDONESIA 🇮🇩", O Channel
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-13.m3u8
+https://tvn10.xyz/vidio/master-13.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="SPORT INDONESIA 🇮🇩",Indosiar
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8
+https://tvn10.xyz/vidio/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORT INDONESIA 🇮🇩",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 
 ###### BEIN SPORT INDONESIA
@@ -761,10 +765,10 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 ##### USSEE SPORT
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORT INDONESIA 🇮🇩",Usee Sports 1
-https://lnk.ec/shareext@USP1
+https://lnk.ec/SHAREEXT@us1.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORT INDONESIA 🇮🇩",Usee Sports 2
-https://lnk.ec/shareext@USP2
+https://lnk.ec/SHAREEXT@us2.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORT INDONESIA 🇮🇩",Usee Sports 1
 http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1717.m3u8
@@ -777,24 +781,24 @@ http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1718.m3u8
 ######CHAMPIONS TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png" group-title="SPORT INDONESIA 🇮🇩", Champions TV Goal
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-10.m3u8
+https://tvn10.xyz/vidio/master-10.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/tDQ6xFK/champions1-home-tv.png" group-title="SPORT INDONESIA 🇮🇩",Champions TV 1 HD
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-7.m3u8
+https://tvn10.xyz/vidio/master-7.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/2ZfB6PP/champions2-home-tv.png" group-title="SPORT INDONESIA 🇮🇩",Champions TV 2 HD
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-8.m3u8
+https://tvn10.xyz/vidio/master-8.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/4Ywp0jJ/champions3-home-tv.png" group-title="SPORT INDONESIA 🇮🇩",Champions TV 3 HD
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-9.m3u8
+https://tvn10.xyz/vidio/master-9.m3u8
 
 <=================================================== SPORT MALAYSIA 🇲🇾 ======================================================>
 
@@ -840,16 +844,15 @@ http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25106.m3u8
 http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26821.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro SuperSport HD
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/6460.ts
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/6460.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro SuperSport 2 HD
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/7554.ts
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/7554.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro SuperSport 3 HD
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/7555.ts
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/7555.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORT MALAYSIA 🇲🇾", Astro SuperSport 4 HD
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/12273.ts
-#EXTINF:-1 tvg-id="Astro SuperSport 5 HD" tvg-name="Astro Supersport 5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Supersport 5
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26352.ts
-
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/12273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_5?file=AstroSupersport5Flat.png" group-title="SPORT MALAYSIA 🇲🇾",Astro Supersport 5
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26352.m3u8
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP1.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORT MALAYSIA 🇲🇾",ASSP MY 1
 http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/25098.m3u8
@@ -1244,26 +1247,6 @@ http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1790.m3u8
 
 ++++++++++++DELETABLE++++++++
 ##########+++++++SPORT DUNIA++++++########
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", LaLiga TV 🇬🇧
-http://starshare.live:8080/live/Shoaibkhan/Yazan786/23346.ts
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", Supersport LaLiga 🇬🇧
-http://185.145.43.244:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", Bein Sports English 1 🇬🇧
-http://185.145.43.244:8000/play/a00l/index.m3u8
-
-#EXTINF:-1  group-title="SPORT DUNIA ⚽", Bein Sports English 2 🇬🇧
-http://85.245.237.73:8082/play/a00e
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", BT SPORTS 2 🇬🇧
-http://shareext@urtv.cc:80/live/104595/104595/6748.ts?shareext.ts
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", DSTV SUPERSPORT 🇬🇧
-http://starshare.live:8080/live/Shoaibkhan/Yazan786/515.ts
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", SUPER GRANDSTAND 🇬🇧
-http://185.145.43.244:8000/play/a008/index.m3u8
 
 #EXTINF:-1 group-title="SPORT DUNIA ⚽", ZQ SPORTS 🇬🇧
 https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
@@ -1271,29 +1254,12 @@ https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT DUNIA ⚽", ZQ SPORTS LIVE 🇬🇧
 https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", RUSH HD 🇬🇧
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
 #EXTINF:-1 group-title="SPORT DUNIA ⚽", RUSH SPORTS 🇬🇧
 http://38.127.211.18/live/c2eds/RushHD/HLS/RushHD-mp4a_128000_eng=4.m3u8 
 
 #EXTINF:-1 group-title="SPORT DUNIA ⚽", CCTV5 🇨🇳
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CCTV5 🇨🇳
-http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CCTV5 + 🇨🇳
-http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CANAL CHINO 4 魅力足球 🇨🇳
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CANAL CHINO 5 新视觉 🇨🇳
-http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="SPORT DUNIA ⚽", CANAL CHINO 6 CCTV5+Sport 🇨🇳
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 #EXTINF:-1 group-title="SPORT DUNIA ⚽", J_sport_1 🇯🇵
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1323,49 +1289,4 @@ https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
 #EXTINF:-1 group-title="SPORT DUNIA ⚽", ON Sports 🇻🇳
 http://cdn.socolacdn.online:8080/onsporttv/mpegts
 
-
-OPTUS
-#EXTINF:-1 tvg-id="" tvg-name="Optus Sports 1" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg" group-title="SPORT DUNIA BARU",Optus Sports 1
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/11973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Optus Sports 2" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg" group-title="SPORT DUNIA BARU",Optus Sports 2
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/11974.m3u8
-
-
-EUROSPORT
-#EXTINF:-1 tvg-id="eurosport.my" tvg-name="EuroSport 1" tvg-logo="https://zalogi.xyz/logo/euro1122.png" group-title="SPORT DUNIA BARU",EuroSport 1
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/600.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport 2" tvg-logo="http://zalogi.xyz/logo/euro22.png" group-title="SPORT DUNIA BARU",Eurosport 2
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/653.m3u8
-
-BT SPORT UK
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN HD" tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORT DUNIA BARU",UK: BT Sport ESPN HD
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/563.m3u8
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sports 1" tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORT DUNIA BARU",UK: BT Sports 1
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/560.m3u8
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sports 2" tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORT DUNIA BARU",UK: BT Sports 2
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/561.m3u8
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sports 3" tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORT DUNIA BARU",UK: BT Sports 3
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/562.m3u8
-
-DAZN
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 " tvg-logo="https://i.postimg.cc/vBKy5P5m/DAZN.png" group-title="SPORT DUNIA BARU",DAZN 1 
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 DE" tvg-logo="https://i.postimg.cc/vBKy5P5m/DAZN.png" group-title="SPORT DUNIA BARU",DAZN 2
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/541.m3u8
-
-DSTV
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Football" tvg-logo="https://i.ibb.co/LdKnp3Y/csn.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Football
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport LaLiga" tvg-logo="https://i.ibb.co/2MGQJZP/supersport-la-liga.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport LaLiga
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: Supersport Motorsport" tvg-logo="https://i.ibb.co/4d3ntSr/supersport-blitz.png" group-title="SPORT DUNIA BARU",DSTV: Supersport Motorsport
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 1" tvg-logo="https://i.ibb.co/mDDdHQ4/supersport-variety-1.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Variety 1
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 2" tvg-logo="https://i.ibb.co/ngxhM4r/supersport-variety-2.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Variety 2
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 3" tvg-logo="https://i.ibb.co/tLyXN07/supersport-variety-3.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Variety 3
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 4" tvg-logo="https://i.ibb.co/Khcjyt4/supersport-variety-4.png" group-title="SPORT DUNIA BARU",DSTV: SuperSport Variety 4
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1772.m3u8
 
