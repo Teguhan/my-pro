@@ -60,7 +60,7 @@ udp://@239.2.2.13:3000
 udp://@239.2.2.14:3000
 
 
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Rajawali_Televisi_2014_below.svg/revision/latest?cb=20200922072814" group-title="HD TV", RTV
+#EXTINF:-1 tvg-id="rtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Rajawali_Televisi_2014_stacked.svg/revision/latest?cb=20200802120447" group-title="HD TV", RTV
 udp://@224.1.1.14:1234
 
 
