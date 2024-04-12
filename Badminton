@@ -8,10 +8,10 @@
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
 #EXTINF:-1 tvg-id="Bwf TV" tvg-name="Bwf TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/2012_BWF_logo.svg" group-title="BADMINTON",Court 1
-https://eastmantv.blogspot.com/p/court-5.html?m=1
+https://eastmantv.blogspot.com/p/court-1.html?m=1
 
 #EXTINF:-1 tvg-id="BWF tv" tvg-name="BWF tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/2012_BWF_logo.svg" group-title="BADMINTON",Court 2
-https://eastmantv.blogspot.com/p/court-4.html?m=1
+https://eastmantv.blogspot.com/p/court-2.html?m=1
 
 #EXTINF:-1 tvg-id="BWF tv" tvg-name="BWF Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/2012_BWF_logo.svg" group-title="BADMINTON",Court 3
 https://eastmantv.blogspot.com/p/court-3.html?m=1
